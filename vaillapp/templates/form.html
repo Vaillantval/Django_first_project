@@ -1,10 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+   {% if request.user.is_authenticated%}
+
+<form action="{{ action }}" method="POST" id="form_container">
+        {% csrf_token %}
+
+        <label>
+            <input type="text" name="content" id="form_content"/>
+        </label>
+        <input type="submit" name="poster" id="form_button"/>
+
+</form>
+   {% else %}
+   <div id="form_unauthenticated">  Veuillez <a href="/admin/login/?next=/"> vous connecter svp </a> </div>
+{% endif %}

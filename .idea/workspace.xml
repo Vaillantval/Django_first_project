@@ -1,34 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="80061856-892b-4a89-beab-772143ca4976" name="Changes" comment="" />
+    <list default="true" id="80061856-892b-4a89-beab-772143ca4976" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/templates/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/templates/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/templates/message.html" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/templates/message.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vaillapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/vaillapp/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="30cEMof5F2FWuLzHurqOxAqR2Qk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.details.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wind\Desktop\document_angediela\PythonProject\vaillapp\static\images" />
+      <recent name="C:\Users\wind\Desktop\document_angediela\PythonProject\vaillapp\templates" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753918415793</updated>
-      <workItem from="1753918416893" duration="6000" />
+      <workItem from="1753918416893" duration="3516000" />
+      <workItem from="1754069748731" duration="14373000" />
+      <workItem from="1754087506405" duration="10730000" />
     </task>
     <servers />
   </component>
